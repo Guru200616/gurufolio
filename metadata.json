@@ -1,0 +1,6 @@
+{
+  "name": "Guru Portfolio Pro",
+  "description": "Enterprise-grade Full Stack Personal Portfolio Platform showcasing projects, credentials, resume, blogs, and an interactive Gemini AI representative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
